@@ -1,0 +1,8 @@
+{
+  "name": "code_challenges",
+  "version": "1.0.0",
+
+  "dependencies": {
+    "csv-parser": "^2.3.0"
+  }
+}
